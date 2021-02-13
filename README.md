@@ -1,1 +1,3 @@
-# owndir
+# maven-project
+
+Simple Maven Project
